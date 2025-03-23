@@ -58,11 +58,13 @@
 ## Usage on Linux
 ```sh
 You must use Python 3.9 or higher
-
+```
 git clone https://github.com/HyukIsBack/KARMA-DDoS.git
-
+```
 Install Python3 modules
- - pip3 install -r requirements.txt  or  pip install -r requirements.txt
+```
+pip install -r requirements.txt
+```
 Install Chrome (or update it lastest version)
  - wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
  - apt-get install ./google-chrome-stable_current_amd64.deb
