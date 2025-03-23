@@ -56,7 +56,7 @@
 [![](https://user-images.githubusercontent.com/87601386/161339371-b6dfaa8f-1cf2-41d1-85c1-d82cdd98def1.png)](https://www.youtube.com/watch?v=MPKdfhPeLeE)
 
 ## Usage on Linux
-```sh
+
 You must use Python 3.9 or higher
 ```
 git clone https://github.com/HyukIsBack/KARMA-DDoS.git
@@ -75,7 +75,7 @@ OR
 ```
 
 ## Example
-```sh
+
 Use DDoS Panel   : python3 main.py
 Use command line : python3 main.py <method> <target> <thread> <time>
       └──────────> python3 main.py cfb https://example.com 100 30
