@@ -59,7 +59,7 @@
 
 You must use Python 3.9 or higher
 ```
-git clone https://github.com/HyukIsBack/KARMA-DDoS.git
+git clone https://github.com/tausifzaman/LiteDDos.git
 ```
 Install Python3 modules
 ```
