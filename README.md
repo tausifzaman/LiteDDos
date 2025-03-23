@@ -1,6 +1,6 @@
 <div align=center>
  
-# LiteDDoS
+# LiteDdoS
  <p>
  <img src="https://img.shields.io/github/stars/tausifzaman/LiteDdos?color=%23DF0067&style=for-the-badge"/> &nbsp;
  <img src="https://img.shields.io/github/forks/tausifzaman/LiteDdos?color=%239999FF&style=for-the-badge"/> &nbsp;
