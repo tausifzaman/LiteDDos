@@ -66,11 +66,10 @@ Install Python3 modules
 pip install -r requirements.txt
 ```
 Install Chrome (or update it lastest version)
- - wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
- - apt-get install ./google-chrome-stable_current_amd64.deb
+ ``` wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb ```
+ ``` apt-get install ./google-chrome-stable_current_amd64.deb ```
 
-OR
- - python3 setup.py
+
 
 ```
 
