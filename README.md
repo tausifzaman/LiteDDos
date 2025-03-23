@@ -55,6 +55,10 @@
 ## Videos
 [![](https://user-images.githubusercontent.com/87601386/161339371-b6dfaa8f-1cf2-41d1-85c1-d82cdd98def1.png)](https://www.youtube.com/watch?v=MPKdfhPeLeE)
 
+## One Line Code
+```
+git clone https://github.com/tausifzaman/LiteDDos.git && cd LiteDDos && pip install -r requirements.txt && python3 main.py 
+```
 ## Usage on Linux
 
 You must use Python 3.9 or higher
