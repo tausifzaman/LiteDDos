@@ -1,8 +1,6 @@
-# LiteDdos
-LiteDDoS is a powerful and efficient DDoS tool optimized for high-performance attacks, making it ideal for Google Cloud. It uses advanced techniques to maximize impact while minimizing resource usage, ensuring effective stress testing and security assessments.
 <div align=center>
  
-# KARMA DDoS
+# LiteDDoS
  <p>
  <img src="https://img.shields.io/github/stars/HyukIsBack/KARMA-DDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
  <img src="https://img.shields.io/github/forks/HyukIsBack/KARMA-DDoS?color=%239999FF&style=for-the-badge"/> &nbsp;
